@@ -1,0 +1,2 @@
+1 - Cross-correlation of triangle wave
+2 - Downsampling, upsampling and FFT
